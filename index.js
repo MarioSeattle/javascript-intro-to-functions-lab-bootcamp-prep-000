@@ -4,6 +4,7 @@ function shout(string) {
 
 function whisper(string) {
   return string.toLowerCase()
+<<<<<<< HEAD
 }
 
 function logShout(string) {
@@ -25,3 +26,6 @@ function sayHiToGrandma(string) {
 }
 
 
+=======
+}
+>>>>>>> 9a6b24506fc6194466c5cdb3ea91d2384dbd0930
